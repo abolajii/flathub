@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/auth/Logout.js"],"names":["Logout"],"mappings":"wGAAA,2BAQeA,UANA,WACX,OACI","file":"static/js/3.a60f552f.chunk.js","sourcesContent":["import React from 'react';\n\nconst Logout = () => {\n    return (\n        <div>Logout</div>\n    );\n};\n\nexport default Logout;"],"sourceRoot":""}
